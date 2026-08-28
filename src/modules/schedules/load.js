@@ -1,4 +1,4 @@
-import { hoursLoad} from "./form/hours-load.js"
+import { hoursLoad } from "../form/hours-load.js"
 
 const selectedDate = document.getElementById("date")
 
